@@ -1,0 +1,31 @@
+.pricing-container {
+    width: 50rem;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+.pricing-container-cnt h1 {
+    font-size: 3rem;
+}
+
+.pricing-container-cnt {
+    padding: 0 4rem;
+}
+
+.pricing-addition-features {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    margin-top: 2rem;
+}
+
+.pcf-ft {
+    margin: .2rem 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.pcf-ft p, .pcf-ft h2 {
+    margin-left: 1rem;
+}

@@ -1,0 +1,30 @@
+.hero-section{
+    background: linear-gradient(270deg, #05445E 0%, #022534 100%);
+    
+    position: relative;
+    z-index: -2;
+    width: 100%;
+}
+
+.texture {
+    opacity: .2;
+    width: 100%;
+    position: relative;
+    margin-top: -50rem;
+    z-index: -1;
+}
+
+
+.pricing-section {
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+}
+
+.graph {
+    width: 100%;
+    position: relative;
+    z-index: -1;
+    margin-top: -50rem;
+}
+
